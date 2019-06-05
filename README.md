@@ -1,1 +1,1 @@
-sisi-docs
+Repositório para controle das documentações do projeto SISI.
